@@ -6,6 +6,6 @@
 
 | 微信                                                                                    | 支付宝                                                                                      |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![Image](https://github.com/user-attachments/assets/85abcb25-366b-4bbb-8d81-5aebc1c18fba) | ![Image](https://github.com/user-attachments/assets/438d833f-0718-4fc3-88ee-f03adeed1067) |
+| ![Image](https://e.gkd.li/53a41cc3-d904-4793-af03-9979db7aeb7d) | ![Image](https://e.gkd.li/438d833f-0718-4fc3-88ee-f03adeed1067) |
 
 或使用 爱发电 <https://afdian.com/a/lisonge>
