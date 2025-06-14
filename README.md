@@ -1,6 +1,6 @@
 # 捐赠支持
 
-您可以在 [我的 Github 主页](https://github.com/lisonge) 查看我的项目
+您可以在 [Github 主页](https://github.com/lisonge) 查看我开发的项目
 
 如果您觉得这些项目对您有帮助，欢迎通过以下方式捐赠支持我。
 
